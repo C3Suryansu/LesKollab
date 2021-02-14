@@ -27,15 +27,20 @@
   
 ## Setting up the project
 
+### For this project you have to install XAMPP Control Panel, the procedures for installation and setup are as follows:
 
-
-## Running the UI tests
-
+* Install XAMPP Control Panel from here: https://www.apachefriends.org/download.html
+* After installation, move to the drive where you installed the panel and look for xampp folder, click on that and navigate to a folder named htdocs. 
+* Clone this git repository here and then open up your xampp control panel and start the modules Apache and MySQL.
+* After that, open up any browser and type 'localhost/phpmyadmin' in the address bar, this will open up a panel where you can upload the dummy database provided in this repository.
+* After successful upload, open another tab and type 'localhost/LesKollab' and then your site is up and running in your local server.
 
 
 ## TECH STACK
 
 Our tech stack includes:
+
+HTML, CSS, Javascript, PHP
 
 
 ## Branches
@@ -51,7 +56,9 @@ The repository has the following permanent branches:
 
 ## Screenshots
 
+![Main page](https://github.com/Spectrum-CETB/LesKollab/blob/main/assets/img/main_page.jpeg?raw=true)
 
+![Dashboard page](https://github.com/Spectrum-CETB/LesKollab/blob/main/assets/img/dashboard.jpeg?raw=true)
 
 
 ## DISCUSSION
